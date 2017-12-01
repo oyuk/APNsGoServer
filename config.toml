@@ -1,0 +1,7 @@
+sandbox = true
+team_id = "YOUR_TEAM_ID"
+key_id = "YOUR_KEY_ID"
+bundle_identifier = "YOUR_BUNDLE_IDENTIFIER"
+key_path = "YOUR_AUTH_KEY_PATH"
+topic = "YOUR_TOPIC"
+
