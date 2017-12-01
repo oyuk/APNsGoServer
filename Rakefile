@@ -8,7 +8,7 @@ namespace :APNsGoServer do
   end
 
   desc "run example"
-  task :run_example do
+  task :run do
     sh('go run main.go -c config.toml')
   end
 
